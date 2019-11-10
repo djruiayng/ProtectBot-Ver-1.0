@@ -1,0 +1,15 @@
+{
+    "admin": [],
+    "blacklist": {},
+    "bot": [],
+    "mimic": {
+        "copy": false,
+        "status": false,
+        "target": {}
+    },
+    "owners": [
+        "ub809d1621e65e5defd74e9e61b1b51b4"
+    ],
+    "s": {},
+    "user": {}
+}
